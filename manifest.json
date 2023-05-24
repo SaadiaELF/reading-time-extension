@@ -15,8 +15,12 @@
                 "scripts/content.js"
             ],
             "matches": [
-                "<all_urls>"
+                "https://developer.chrome.com/*"
             ]
         }
+    ],
+    "permissions": [
+        "activeTab",
+        "storage"
     ]
 }
