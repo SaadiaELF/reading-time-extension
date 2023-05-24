@@ -18,9 +18,5 @@
                 "https://developer.chrome.com/*"
             ]
         }
-    ],
-    "permissions": [
-        "activeTab",
-        "storage"
     ]
 }
